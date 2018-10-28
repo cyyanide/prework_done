@@ -1,0 +1,16 @@
+body
+{
+background-color: blue;
+}
+p {
+
+    color: #FFDEAD;
+}
+
+
+div {
+  height: 50px;
+  width: 100px;
+  border: 3px solid #FF0000
+  
+}

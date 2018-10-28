@@ -1,0 +1,56 @@
+#pomidor {
+	color: red;
+
+}
+
+#ziemniak {
+	color: darkgoldenrod; 
+}
+
+#jeden {
+	color: red;
+}
+
+#dwa {
+
+	color:green;
+}
+
+#trzy {
+
+color:darkkhaki;
+}
+
+#alfa {
+	background-color: #FFB6C1;
+}
+
+#beta {
+	background-color: rgb(253, 34, 169);
+}
+
+#gamma{
+	background-color: hsl(180, 100%, 50%);
+}
+
+.container {
+
+	width: 200px;
+}
+
+#first {
+	background-color: red;    
+	width: 50%;
+}
+
+#second {
+	background-color: khaki;
+	width: 10em;
+}
+
+
+
+
+
+
+

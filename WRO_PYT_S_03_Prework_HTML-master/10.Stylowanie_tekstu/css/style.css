@@ -1,0 +1,30 @@
+.alfa {
+	width: 500px;
+}
+
+.beta {
+	font-family: Verdana;
+	background-color: #ACC4CE;
+	color: white;
+	font-size: 20px;
+	text-shadow: 2px 2px 5px #4D4D4D;
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+.gamma {
+	font-family: Arial;
+	font-style: oblique;
+	color: #395075;
+	letter-spacing: 10px;
+
+}
+
+.delta {
+	font-family: sans-serif;
+	color: grey;
+	font-size: 14px;
+	line-height: 20px;
+	text-indent: 20px;
+
+}

@@ -1,0 +1,35 @@
+.first {
+	background-color: #b2b2b2;
+	background-color: rgba(215, 40, 40, 0.9);
+	opacity: .4;
+
+}
+
+.second {
+
+	background-color: rgba(215, 44, 154, 0.9);   /* czcionka rowniez staje sie przezroczysta, 
+													tlem sa otoczone tylko elementy p */
+	opacity: .3;
+}
+.gradient {
+	background-image: background: rgba(187,218,231,1);
+background: -moz-linear-gradient(top, rgba(187,218,231,1) 0%, rgba(195,222,233,1) 0%, rgba(63,174,207,1) 61%, rgba(63,174,207,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(187,218,231,1)), color-stop(0%, rgba(195,222,233,1)), color-stop(61%, rgba(63,174,207,1)), color-stop(100%, rgba(63,174,207,1)));
+background: -webkit-linear-gradient(top, rgba(187,218,231,1) 0%, rgba(195,222,233,1) 0%, rgba(63,174,207,1) 61%, rgba(63,174,207,1) 100%);
+background: -o-linear-gradient(top, rgba(187,218,231,1) 0%, rgba(195,222,233,1) 0%, rgba(63,174,207,1) 61%, rgba(63,174,207,1) 100%);
+background: -ms-linear-gradient(top, rgba(187,218,231,1) 0%, rgba(195,222,233,1) 0%, rgba(63,174,207,1) 61%, rgba(63,174,207,1) 100%);
+background: linear-gradient(to bottom, rgba(187,218,231,1) 0%, rgba(195,222,233,1) 0%, rgba(63,174,207,1) 61%, rgba(63,174,207,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bbdae7', endColorstr='#3faecf', GradientType=0 );
+
+}
+
+.image {
+	background-image: url("../images/lens.jpg");
+	width: 100%;
+	height: 200px; 
+	background-repeat: no-repeat;
+	background-position: center;
+
+} 
+
+

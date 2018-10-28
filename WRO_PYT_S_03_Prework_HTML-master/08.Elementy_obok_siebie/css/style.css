@@ -1,0 +1,32 @@
+.box {
+
+	height: 100px;
+  	width: 100px;
+  	border: 1px solid #000000;
+ 
+  /* Tutaj deklaracja własności dla obu div-ów */
+}
+#first-div {
+	float: left;
+
+
+  /* Tutaj deklaracja własności indywidualnych dla diva o id="first-div" */
+}
+#second-div {
+
+float: right;
+  /* Tutaj deklaracja własności indywidualnych dla diva o id="second-div" */
+}
+
+.clearfix {
+
+clear: both;
+
+}
+
+.asd {
+	width: 80px;
+  	border: dotted #FF0000;
+  	margin: 2px;
+
+}
